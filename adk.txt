@@ -1,0 +1,52 @@
+algoritm,algorithm
+approximationskvot,approximation ratio
+approximerbarhet,approximability
+beräkningsbarhet,computability
+beräkningsmodell,computational model
+beslutsproblem,decision problem
+bitkostnad,bit cost
+datastruktur,data structure
+dekomposition,divide and conquer
+delmängdssumma,subset sum
+dynamisk programmering,dynamic programming
+enhetskostnad,unit cost
+förberäknad,precomputed
+girig algoritm,greedy algorithm
+grafgenomgång,graph traversal
+grannlista,adjacency list
+grannmatris,adjacency matrix
+heuristik,heuristics
+hörn,vertex
+ickedeterministisk,non-deterministic
+kant,edge
+kantmatris,incidence matrix
+komplexitet,complexity
+konjunktiv normalform,conjunctive normal form
+konstruktionsproblem,construction problem
+källa,source
+latmanshashning,lazy hashing
+målfunktion,objective function
+mängdpartitionering,partition problem
+mästarsatsen,Master theorem
+NP-fullständig,NP-complete
+oavgörbar,undecidable
+oberoende mängd,independent set
+optimeringsproblem,optimization problem
+polynomisk reduktion,polynomial reduction
+polynomisk tid,polynomial time
+prioritetskö,priority queue
+probleminstans,problem instance
+rekursivt uppräknelig,recursively enumerable
+restkapacitet,residual capacity
+rimlig tid,feasible time
+räknesortering,counting sort
+satisfierbar,satisfiable
+simulerad härdning,simulated annealing
+slumpeliminering,derandomization
+spännande träd,spanning tree
+totalsökning,exhaustive search
+tuff motståndare,adversary
+undre gräns,lower bound
+utlopp,sink
+verifierbar,verifiable
+övre gräns,upper bound
